@@ -7,7 +7,9 @@ streamlit
 langchain
 langchain_community
 langchain-openai
+
 langchain-pinecone
+langchain-chroma
 
 pinecone
 pinecone-client

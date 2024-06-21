@@ -1,5 +1,13 @@
-langchain
-pinecone-client
+python-dotenv
+
 pypdf
-openai
-tiktoken
+jupyter
+streamlit
+
+langchain
+langchain_community
+langchain-openai
+langchain-pinecone
+
+pinecone
+pinecone-client

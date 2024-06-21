@@ -1,0 +1,5 @@
+langchain
+pinecone-client
+pypdf
+openai
+tiktoken
